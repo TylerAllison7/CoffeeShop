@@ -1,0 +1,20 @@
+{
+  "name": "group-project-coffee-shoppe",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
